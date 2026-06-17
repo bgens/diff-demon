@@ -1,0 +1,14 @@
+# Cache of mirror clones (can be large)
+github_diff_cache/
+.cache/
+
+# Generated artifacts
+output/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
