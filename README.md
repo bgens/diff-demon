@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="diff_demon.png" alt="Diff Demon logo" width="200">
+</p>
+
 # Diff Demon
 
 Pull **every commit diff** from any GitHub repository into formats that an AI
