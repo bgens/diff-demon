@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="diff_demon.png" alt="Diff Demon logo" width="200">
+  <img src="diff_demon.png" alt="Diff Demon logo" width="400">
 </p>
 
 # Diff Demon
